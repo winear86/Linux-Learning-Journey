@@ -4,7 +4,7 @@ Documenting my journey through the 7 stages of learning Linux, from fundamentals
 ## Roadmap Progress
 - [x] Stage 1: Linux Fundamentals
 - [x] Stage 2: Working with the Filesystem
-- [ ] Stage 3: System Administration Basics
+- [x] Stage 3: System Administration Basics
 - [ ] Stage 4: Networking and Services
 - [ ] Stage 5: Shell Scripting and Automation
 - [ ] Stage 6: Security and Troubleshooting
