@@ -24,3 +24,12 @@
 ## Mini-Project: Real Incident Reconstruction from Logs
 
 Used `/var/log/auth.log` to reconstruct my own recent command history purely from log entries — without relying on shell history:
+
+**Lesson learned:** auth.log is a complete forensic trail — every sudo attempt (success or failure) is timestamped with the exact command, the user, and the session lifecycle. This is exactly what a security review or incident investigation would pull to answer "who did what, and when."
+
+## Checkpoint
+- [x] Can query logs by service and time window with journalctl
+- [x] Can search and interpret auth.log entries
+- [x] Understand PAM's role in authentication logging
+- [x] Understand sudo session lifecycle (open/close per command)
+- [x] Checked AppArmor status and understand WSL's limitation here
