@@ -8,7 +8,7 @@ Documenting my journey through the 7 stages of learning Linux, from fundamentals
 - [x] Stage 4: Networking and Services
 - [x] Stage 5: Shell Scripting and Automation
 - [x] Stage 6: Security and Troubleshooting
-- [ ] Stage 7: Production Linux Administration
+- [x] Stage 7: Production Linux Administration
 
 ## Structure
 Each stage has its own folder with notes and a mini-project applying what I learned.
